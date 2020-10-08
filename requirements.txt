@@ -16,4 +16,4 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 networkx==2.5
-turtle
+turtle==1.0.0
